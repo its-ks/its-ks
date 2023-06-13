@@ -1,16 +1,20 @@
-### Hi there 👋
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+<h3 align="center">
+  Welcome to My profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+<p align="center">
+  <a href="https://github.com/its-ks"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Kaushalendra;I+am+a+College+student;Android+Dev;Crypto+Lover+%3C3"></a>
+</p>
 
-<!--
-**its-ks/its-ks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+<div align="center">
+  
+# 💫About Me :
+🔭 I’m currently working on my github page : https://github.com/its-ks
+  
+🌱 I’m currently learning : *Machine Learning,Data Science*
 
-Here are some ideas to get you started:
+  👯 I’m looking to collaborate on my webpage
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  💬 Ask me about for any help
