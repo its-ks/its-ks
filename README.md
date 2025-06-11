@@ -13,7 +13,7 @@
 # 💫About Me :
 🔭 I’m currently working on my github page : https://github.com/its-ks
   
-🌱 I’m currently learning : *AIML , Android Development*
+🌱 I’m currently learning : *Backend Development*
 
   👯 I’m looking to collaborate on my webpage
 
